@@ -1,0 +1,11 @@
+.call-button {
+  border-radius: 50%;
+  background-color: #f95858;
+  margin: auto;
+  height: 100px;
+  width: 100px;
+}
+.call-button-container {
+  margin-top: 46vh;
+  text-align: center;
+}
